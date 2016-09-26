@@ -1,8 +1,16 @@
-# ReduxSimpleStarter
+# ReduxStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is a fork of [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter) by [StephenGrider](https://github.com/StephenGrider) which he use in his great React Redux course on Udemy.com: [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/learn/v4/overview)
 
-###Getting Started###
+
+###Changes comparet to the original
+
+*	Added `eslint` config
+
+
+--
+
+###Getting Started with this repo###
 
 There are two methods for getting started with this repo.
 
@@ -10,8 +18,8 @@ There are two methods for getting started with this repo.
 Checkout this repo, install depdencies, then start the gulp process with the following:
 
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
+	> git clone https://github.com/netsi1964/ReduxStarter.git
+	> cd ReduxStarter
 	> npm install
 	> npm start
 ```
@@ -23,3 +31,7 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 	> npm install
 	> npm start
 ```
+
+--
+
+Interested in learning [Redux](https://www.udemy.com/react-redux/)?
