@@ -3,9 +3,10 @@
 This is a fork of [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter) by [StephenGrider](https://github.com/StephenGrider) which he use in his great React Redux course on Udemy.com: [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial/learn/v4/overview)
 
 
-###Changes comparet to the original
+###Changes compared to the original
 
 *	Added `eslint` config
+* Added various required eslint plug-ins. I am using air-bnb linting style.
 
 
 --
